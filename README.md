@@ -2,7 +2,7 @@
 - 👀 I’m interested in Power bi
 - 🌱 I’m currently learning Data analysis
 - 💞️ I’m looking to collaborate on Data scince
-- 📫 How to reach me magedskyline@gmail.com
+- 📫 How to reach me maged.abdallah1984@gmail.com
 
 <!---
 magedSSA/magedSSA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
